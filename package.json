@@ -21,7 +21,7 @@
     "eslint-plugin-import": "^2.20.2"
   },
   "dependencies": {
-    "data-api-client": "^1.0.1",
+    "data-api-client": "ArsenyYankovsky/data-api-client#support-date",
     "events": "^3.1.0",
     "sqlstring": "^2.3.1"
   }
