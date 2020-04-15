@@ -21,7 +21,7 @@
     "eslint-plugin-import": "^2.20.2"
   },
   "dependencies": {
-    "data-api-client": "ArsenyYankovsky/data-api-client#support-date",
+    "data-api-client": "cklam2/data-api-client#aws-timestamp-support",
     "events": "^3.1.0",
     "sqlstring": "^2.3.1"
   }
